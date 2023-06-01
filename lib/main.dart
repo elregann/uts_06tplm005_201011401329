@@ -63,17 +63,16 @@ class _MyHomePageState extends State<MyHomePage> {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Container(
-                            width: 60,
-                            height: 60,
-                            decoration: BoxDecoration(
-                              borderRadius: BorderRadius.circular(100),
-                              color: Colors.white,
-                            ),
-                            child: const Icon(
-                              Icons.person,
-                              color: Color.fromARGB(31, 24, 57, 245),
-                            )
-                          ),
+                              width: 60,
+                              height: 60,
+                              decoration: BoxDecoration(
+                                borderRadius: BorderRadius.circular(100),
+                                color: Colors.white,
+                              ),
+                              child: const Icon(
+                                Icons.person,
+                                color: Color.fromARGB(31, 24, 57, 245),
+                              )),
                         ],
                       ),
                     ),
@@ -120,7 +119,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         ],
                       ),
                       Image.network(
-                          'https://i.postimg.cc/FHp48V6b/Whats-App-Image-2023-05-10-at-09-28-54.jpg'),
+                          'https://i.postimg.cc/s1FCJRnf/Whats-App-Image-2023-05-10-at-09-28-54-removebg-preview.png'),
                     ],
                   ),
                 ),
@@ -164,7 +163,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         ],
                       ),
                       Image.network(
-                          'https://i.postimg.cc/bJHH9drv/Whats-App-Image-2023-05-10-at-09-28-53-2.jpg'),
+                          'https://i.postimg.cc/TPvh3zf6/Whats-App-Image-2023-05-10-at-09-28-53-2-removebg-preview-1.png'),
                     ],
                   ),
                 ),
@@ -210,7 +209,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         ],
                       ),
                       Image.network(
-                          'https://i.postimg.cc/mkkz1rFJ/Whats-App-Image-2023-05-10-at-09-28-53-1.jpg'),
+                          'https://i.postimg.cc/L8CNdVpL/Whats-App-Image-2023-05-10-at-09-28-53-1-removebg-preview.png'),
                     ],
                   ),
                 ),
@@ -263,7 +262,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         ],
                       ),
                       Image.network(
-                          'https://i.postimg.cc/s2zM9mhp/Whats-App-Image-2023-05-10-at-09-28-53.jpg'),
+                          'https://i.postimg.cc/3RKMLBCp/Whats-App-Image-2023-05-10-at-09-28-53-removebg-preview.png'),
                     ],
                   ),
                 ),
@@ -310,7 +309,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         ],
                       ),
                       Image.network(
-                          'https://i.postimg.cc/5tftFthg/Whats-App-Image-2023-05-10-at-09-28-52.jpg'),
+                          'https://i.postimg.cc/Kz4fv3mw/Whats-App-Image-2023-05-10-at-09-28-52-removebg-preview.png'),
                     ],
                   ),
                 ),
